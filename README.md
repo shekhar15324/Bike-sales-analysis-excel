@@ -79,8 +79,9 @@ Total Records Analyzed: **1000+ customers**
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](<img width="1853" height="688" alt="bikes sales dashboard" src="https://github.com/user-attachments/assets/50d200de-5d94-490d-ade1-5775bcf57b1b" />
-)
+<img width="1853" height="688" alt="bikes sales dashboard" src="https://github.com/user-attachments/assets/ac6d9dda-5cb5-49f9-91af-3f432b1b467b" />
+
+
 
 ---
 
