@@ -85,18 +85,6 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 🚀 Project Structure
-
-```
-Bike-Sales-Analysis/
-│
-├── Dataset/
-├── Dashboard/
-├── Images/
-└── README.md
-```
-
----
 
 ## 📌 Skills Demonstrated
 
