@@ -1,6 +1,6 @@
-# 🚴 Bike Sales Analysis Dashboard (Excel Project)
+#  Bike Sales Analysis Dashboard (Excel Project)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes customer demographic and lifestyle data to identify key factors influencing bike purchase behavior. Using Microsoft Excel, an interactive dashboard was created to uncover trends, customer segments, and actionable business insights.
 
@@ -8,7 +8,7 @@ The analysis helps businesses understand **which customers are more likely to pu
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 * Analyze customer purchase patterns
 * Identify high-value customer segments
@@ -17,7 +17,7 @@ The analysis helps businesses understand **which customers are more likely to pu
 
 ---
 
-## 🛠 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * Microsoft Excel
 * Data Cleaning & Transformation
@@ -27,7 +27,7 @@ The analysis helps businesses understand **which customers are more likely to pu
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains customer-level information including:
 
@@ -47,7 +47,7 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 * Regional Sales Analysis
 * Income vs Purchase Comparison
@@ -58,7 +58,7 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Customers with **2–5 mile commute distance** showed the highest purchase probability.
 * The **Pacific region** recorded the strongest bike purchase rate.
@@ -69,7 +69,7 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 💼 Business Recommendations
+##  Business Recommendations
 
 * Focus marketing campaigns on short-distance commuters.
 * Target regions with higher conversion rates (Pacific region).
@@ -78,7 +78,7 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 <img width="1853" height="688" alt="bikes sales dashboard" src="https://github.com/user-attachments/assets/ac6d9dda-5cb5-49f9-91af-3f432b1b467b" />
 
 
@@ -86,7 +86,7 @@ Total Records Analyzed: **1000+ customers**
 ---
 
 
-## 📌 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Analysis
 * Business Insight Generation
@@ -97,7 +97,7 @@ Total Records Analyzed: **1000+ customers**
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shekhar Kotipalli**
 
@@ -105,7 +105,7 @@ Aspiring Data Analyst | Excel • SQL • Power BI
 
 ---
 
-## ⭐ Project Outcome
+##  Project Outcome
 
 This project demonstrates how Excel can be used as a powerful analytics tool to transform raw data into actionable business insights and decision-support dashboards.
 
